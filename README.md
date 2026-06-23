@@ -1,5 +1,9 @@
 # ✈️ Turbofan Engine Remaining Useful Life (RUL) Prediction
 
+🌐 Try the Deployed Application
+
+https://turbofan-rul-prediction-mhzappwflhkyedb8av7i4a7.streamlit.app/
+
 ## 🚀 Project Overview
 
 Predictive Maintenance is one of the most important applications of Artificial Intelligence in the aerospace industry.
