@@ -249,15 +249,15 @@ streamlit run app.py
 
 ### Dashboard
 
-
+![Dashboard :- ](screenshots/dashboard.png)
 
 ### Prediction Result
 
-(Add Screenshot Here)
+![Prediction Result :-](screenshots/prediction.png)
 
 ### Model Comparison
 
-(Add Screenshot Here)
+![Model Comparison :- ](screenshots/model_comparison.png)
 
 ---
 
